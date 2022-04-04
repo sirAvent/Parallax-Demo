@@ -63,3 +63,13 @@ section img {
 #road {
     z-index: 2;
 }
+
+.content p{
+    color: #fff;
+    font-size: 1.2em;
+}
+
+.content h2{
+    color: #fff;
+    font-size: 4em;
+}
